@@ -19,7 +19,7 @@
             "email": "fabrinotech@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "require-dev": {
         "phpunit/phpunit": "^13.4@dev"
     }
