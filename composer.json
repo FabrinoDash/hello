@@ -1,0 +1,19 @@
+{
+    "name": "fabrinotech/hello",
+    "description": "Hello, World",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Fabrinotech\\Hello\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Fabrino Mhengilolo",
+            "email": "fabrinotech@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
