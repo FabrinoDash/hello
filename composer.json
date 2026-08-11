@@ -1,7 +1,6 @@
 {
     "name": "fabrinotech/hello",
     "description": "Hello, World",
-    "version": "1.0.0",
     "type": "library",
     "license": "MIT",
     "autoload": {
