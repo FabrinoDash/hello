@@ -1,0 +1,13 @@
+# Composer dependencies
+/vendor/
+
+# PHPUnit cache (generated when you run tests)
+.phpunit.cache
+.phpunit.result.cache
+
+# Environment variables (if you ever add them)
+.env
+
+# OS generated files
+.DS_Store
+Thumbs.db
